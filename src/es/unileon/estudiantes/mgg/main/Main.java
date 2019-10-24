@@ -5,6 +5,8 @@ import java.util.Scanner;
 
 public class Main {
 
+	//Hey pero que pasa
+	
 	public static int n;
 	
 	public static void main(String[] args) {
